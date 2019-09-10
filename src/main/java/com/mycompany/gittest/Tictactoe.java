@@ -9,13 +9,12 @@ package com.mycompany.gittest;
  *
  * @author aggut
  */
-public class gitTest {
+public class Tictactoe {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello tictactoe");
         // TODO code application logic here
     }
     
